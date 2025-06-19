@@ -59,7 +59,7 @@
 
 
 <p>Request restaurant bookings, sightseeing recommendations, and other guest services.</p>
-<iframe class="w-full my-5" src="https://www.youtube.com/embed/2Xc9gXyf2G4" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe class="w-full my-5" title="Iframe" src="https://www.youtube.com/embed/2Xc9gXyf2G4" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 <p>For more information, visit our <a href="https://example.com">website</a>.</p>
 
 <div class="w-full mt-4">

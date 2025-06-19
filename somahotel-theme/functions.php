@@ -130,7 +130,7 @@ function mytheme_assets() {
 
     // JS
     if ( file_exists( $dir_abs . 'index.js' ) ) {
-        $asset = include $dir_abs . 'index.asset.php';
+        $asset = include_once $dir_abs . 'index.asset.php';
         wp_enqueue_script(
             'mytheme-js',
             $dir_uri . 'index.js',
