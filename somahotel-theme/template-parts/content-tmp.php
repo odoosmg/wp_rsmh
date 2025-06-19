@@ -75,7 +75,7 @@
                 <p>Explore dining options within the hotel (Bati Bar & Grill and Little Plates). View menus, hours, and make
                 reservations.</p>
             </div>
-        </articale>
+        </article>
     </div>
     <div class="flex flex-col justify-between items-center mb-6 w-full">
         <article class="soma-hotel-facilities flex flex-col justify-center w-full">
@@ -89,7 +89,7 @@
                 <p>Explore dining options within the hotel (Bati Bar & Grill and Little Plates). View menus, hours, and make
                 reservations.</p>
             </div>
-        </articale>        
+        </article>        
     </div>
 </div>
 
@@ -162,7 +162,7 @@
                     </div>
                 </div>
             </div>
-        </articale>        
+        </article>        
     </div>
 </div>
 
@@ -195,7 +195,7 @@
                     
                 </div>
             </div>
-        </articale>        
+        </article>        
     </div>
 </div>
 
@@ -225,6 +225,6 @@
                     
                 </div>
             </div>
-        </articale>        
+        </article>        
     </div>
 </div>
